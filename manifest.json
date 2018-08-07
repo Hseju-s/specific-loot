@@ -1,6 +1,7 @@
 {
   "files": {
-    "index.js": "a94e6ae75fc4d164a56df3d999ecc56a795743054ea29c9aeda6ff2262151046"
+    "index.js": "172c7b0579704c008bded30771a0673e4d494ce08e95413e56a2e47437a66277",
+    "README.md": "6d1f6404d419e3ce39bf2063642a8e57905c63a7f249032dbaf062eeb6005b2a"
   },
    "defs": {
 	  "S_LOGIN": 10,
