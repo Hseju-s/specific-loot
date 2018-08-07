@@ -1,0 +1,13 @@
+{
+  "files": {
+    "index.js": "a94e6ae75fc4d164a56df3d999ecc56a795743054ea29c9aeda6ff2262151046"
+  },
+   "defs": {
+	  "S_LOGIN": 10,
+	  "S_LOAD_TOPO": 3,
+	  "C_PLAYER_LOCATION": 5,
+      "S_RETURN_TO_LOBBY": "raw",
+      "S_SPAWN_DROPITEM": 6,
+      "S_DESPAWN_DROPITEM": 4
+  }
+}
